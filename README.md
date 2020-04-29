@@ -1,5 +1,5 @@
 # NLP_Capstone_Project
-In this repository, you will find all process of NLP from the scratch
+In this repository, you will find all process of my NLP study from the scratch
 
 The order of the files are:
 1) Data_cleaning_and_feature_extraction.ipynb

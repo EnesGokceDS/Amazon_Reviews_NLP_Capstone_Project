@@ -11,4 +11,7 @@ The order of the files are:
 This order also represents order of my studies. In order to understand the codes used in the study fully, this order needs to be followed. 
 
 In the Capstone report, you will see summary of all these studies in a proper format. 
+
 Have fun!
+
+Enes Gokce

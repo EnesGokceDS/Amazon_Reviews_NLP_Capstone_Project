@@ -10,7 +10,7 @@ The order of the files are:
 
 This order also represents order of my studies. In order to understand the codes used in the study fully, this order needs to be followed. 
 
-In the Capstone report, you will see summary of all these studies in APA style format. 
+In the Capstone report, you will see important findings of all these studies in APA style format. 
 
 Have fun!
 

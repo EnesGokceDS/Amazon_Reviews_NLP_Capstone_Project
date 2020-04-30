@@ -8,9 +8,10 @@ The order of the files are:
 4) Topic_Modeling_Amazon_Reviews
 5) Prediction_Model_Creation
 
-This order also represents order of my studies. In order to understand the codes used in the study fully, this order needs to be followed. 
+This order also represents the order of my studies. In order to understand the codes used in the study fully, given order needs to be followed. 
 
-In the Capstone report, you will see important findings of all these studies in APA format. 
+In the capstone project report, you will see the steps and findings of all these studies in APA format. 
+Report doesn't include every visual that are available in the collab files. I only included the relevant visuals in the report.
 
 Have fun!
 

@@ -1,12 +1,12 @@
-# NLP_Capstone_Project
+# **NLP_Capstone_Project**
 In this repository, you will find all process of my NLP study from the scratch
 
 The order of the files are:
 1) Data_cleaning_and_feature_extraction.ipynb
 2) Amazon_Review_Data_Visulization.ipynb
 3) Sentiment_Analysis_Amazon_Review.ipynb
-4) Topic_Modeling_Amazon_Reviews
-5) Prediction_Model_Creation
+4) Topic_Modeling_Amazon_Reviews.ipynb
+5) Prediction_Model_Creation.ipynb
 
 This order also represents the order of my studies. In order to understand the codes used in the study fully, given order needs to be followed. 
 

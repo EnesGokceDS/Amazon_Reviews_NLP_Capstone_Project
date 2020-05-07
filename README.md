@@ -10,11 +10,11 @@ The order of the files are:
 
 This order also represents the order of my studies. In order to understand the codes used in the study fully, given order needs to be followed. 
 
-In the capstone project report, you will see the steps and findings of all these studies in APA format. 
+In the **NLP_Capstone_Project** report, you will see the steps and findings of all these studies in APA format. 
 Report doesn't include every visual that are available in the collab files. I only included the relevant visuals in the report.
 
 For checking innitial findings of EDA and data visulization, you can read Milestone report.
-Milestone report includes:
+**Milestone report** includes:
 
     ⦿Problem statement: Why it’s a useful question to answer and details about the client (get this from your proposal)    
     

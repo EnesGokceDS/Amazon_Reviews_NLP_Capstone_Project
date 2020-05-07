@@ -11,7 +11,7 @@ The order of the files are:
 This order also represents the order of my studies. In order to understand the codes used in the study fully, given order needs to be followed. 
 
 In the **NLP_Capstone_Project** report, you will see the steps and findings of all these studies in APA format. 
-Report doesn't include every visual that are available in the collab files. I only included the relevant visuals in the report.
+Report doesn't include every visuals that are available in the colab files. I only included only the relevant visuals in the report. However, there are still additinal interesting visuals in these colab notebooks!
 
 For checking innitial findings of EDA and data visulization, you can read Milestone report.
 **Milestone report** includes:

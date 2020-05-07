@@ -22,9 +22,9 @@ Milestone report includes:
     
     ⦿initial findings from exploratory analysis (data story and inferential statistics)
         
-        ⦿Summary of findings
+        ‣Summary of findings
         
-        ⦿Visuals and statistics to support findings
+        ‣Visuals and statistics to support findings
 
 
 Have fun!

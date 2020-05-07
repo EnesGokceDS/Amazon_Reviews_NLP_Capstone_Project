@@ -15,10 +15,15 @@ Report doesn't include every visual that are available in the collab files. I on
 
 For checking innitial findings of EDA and data visulization, you can read Milestone report.
 Milestone report includes:
-    Problem statement: Why it’s a useful question to answer and details about the client (get this from your proposal)
-    Description of the dataset, how you obtained, cleaned, and wrangled it
-    Initial findings from exploratory analysis (data story and inferential statistics)
+
+    ⦿Problem statement: Why it’s a useful question to answer and details about the client (get this from your proposal)    
+    
+    ⦿Description of the dataset, how you obtained, cleaned, and wrangled it 
+    
+    ⦿initial findings from exploratory analysis (data story and inferential statistics)
+        
         ⦿Summary of findings
+        
         ⦿Visuals and statistics to support findings
 
 

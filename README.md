@@ -13,6 +13,15 @@ This order also represents the order of my studies. In order to understand the c
 In the capstone project report, you will see the steps and findings of all these studies in APA format. 
 Report doesn't include every visual that are available in the collab files. I only included the relevant visuals in the report.
 
+For checking innitial findings of EDA and data visulization, you can read Milestone report.
+Milestone report includes:
+    Problem statement: Why it’s a useful question to answer and details about the client (get this from your proposal)
+    Description of the dataset, how you obtained, cleaned, and wrangled it
+    Initial findings from exploratory analysis (data story and inferential statistics)
+        ⦿Summary of findings
+        ⦿Visuals and statistics to support findings
+
+
 Have fun!
 
 Enes Gokce

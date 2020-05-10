@@ -27,6 +27,8 @@ For checking innitial findings of EDA and data visulization, you can read Milest
         ‣Visuals and statistics to support findings
 
 
+Lastly, 'Project_Presentation' file was prepared for presenting main focuses of this project to technical and non-technical audiences. 
+
 Have fun!
 
 Enes Gokce
